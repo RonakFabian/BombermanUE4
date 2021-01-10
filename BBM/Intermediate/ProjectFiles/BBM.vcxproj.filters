@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BBM.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{65592FF4-A5CF-45CC-87DC-7FC39E6F1978}</UniqueIdentifier>
+      <UniqueIdentifier>{00427620-4E6F-4A88-84BD-3D854F2B4B83}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BBM.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{097B4D3F-C14F-4D83-BF10-BC73EBF1B3E9}</UniqueIdentifier>
+      <UniqueIdentifier>{E22B15B2-2570-4B9B-B11A-4CED96B1BB90}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\BBM">
-      <UniqueIdentifier>{BD52983E-4570-4345-A749-B8FB486BE6F6}</UniqueIdentifier>
+      <UniqueIdentifier>{29132837-BB9C-49A3-9EC3-1EE47BF2CBCC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BBM\BBM.Build.cs">
       <Filter>Source\BBM</Filter>

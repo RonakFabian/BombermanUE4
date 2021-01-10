@@ -16,8 +16,9 @@ void ABomb::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	UE_LOG(LogTemp,Warning,TEXT("HI"));
 }
-
+;
 // Called every frame
 void ABomb::Tick(float DeltaTime)
 {

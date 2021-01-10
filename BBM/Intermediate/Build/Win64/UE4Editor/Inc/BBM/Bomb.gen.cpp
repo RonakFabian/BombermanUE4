@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -71,7 +71,7 @@ void EmptyLinkFunctionForGeneratedCodeBomb() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABomb, 269531638);
+	IMPLEMENT_CLASS(ABomb, 2680747146);
 	template<> BBM_API UClass* StaticClass<ABomb>()
 	{
 		return ABomb::StaticClass();

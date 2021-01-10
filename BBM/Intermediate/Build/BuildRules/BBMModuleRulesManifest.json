@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Bomberman\\BombermanUE4\\BBM\\Source\\BBM\\BBM.Build.cs",
+		"E:\\Bomberman\\BombermanUE4\\BBM\\Source\\BBM.Target.cs",
+		"E:\\Bomberman\\BombermanUE4\\BBM\\Source\\BBMEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BBM",
+			"Path": "E:\\Bomberman\\BombermanUE4\\BBM\\Source\\BBM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BBMEditor",
+			"Path": "E:\\Bomberman\\BombermanUE4\\BBM\\Source\\BBMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

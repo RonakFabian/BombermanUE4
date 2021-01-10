@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BBM.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{65592FF4-A5CF-45CC-87DC-7FC39E6F1978}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BBM.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BBMEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{097B4D3F-C14F-4D83-BF10-BC73EBF1B3E9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BBM">
+      <UniqueIdentifier>{BD52983E-4570-4345-A749-B8FB486BE6F6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BBM\BBM.Build.cs">
+      <Filter>Source\BBM</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BBM\BBM.cpp">
+      <Filter>Source\BBM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BBM\BBM.h">
+      <Filter>Source\BBM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BBM\BBMGameModeBase.cpp">
+      <Filter>Source\BBM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BBM\BBMGameModeBase.h">
+      <Filter>Source\BBM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BBM\Bomb.cpp">
+      <Filter>Source\BBM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BBM\Bomb.h">
+      <Filter>Source\BBM</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+E:\Bomberman\BombermanUE4\BBM\Intermediate\Build\Win64\UE4Editor\Development\BBM\Definitions.BBM.h
+E:\Bomberman\BombermanUE4\BBM\Source\BBM\BBM.h

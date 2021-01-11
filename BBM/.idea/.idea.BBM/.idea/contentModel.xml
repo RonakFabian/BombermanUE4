@@ -29,6 +29,12 @@
           <e p="BBMGameModeBase.h" t="Include" />
           <e p="Bomb.cpp" t="Include" />
           <e p="Bomb.h" t="Include" />
+          <e p="CubeActor.cpp" t="Include" />
+          <e p="CubeActor.h" t="Include" />
+          <e p="MapGenerator.cpp" t="Include" />
+          <e p="MapGenerator.h" t="Include" />
+          <e p="PlaneActor.cpp" t="Include" />
+          <e p="PlaneActor.h" t="Include" />
         </e>
         <e p="BBM.Target.cs" t="Include" />
         <e p="BBMEditor.Target.cs" t="Include" />

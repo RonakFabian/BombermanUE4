@@ -17,6 +17,8 @@ void ABomb::BeginPlay()
 	Super::BeginPlay();
 	
 	UE_LOG(LogTemp,Warning,TEXT("HI"));
+	UE_LOG(LogTemp,Warning,TEXT("HI"));
+	
 }
 ;
 // Called every frame

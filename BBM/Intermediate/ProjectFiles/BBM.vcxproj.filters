@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\BBM.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{00427620-4E6F-4A88-84BD-3D854F2B4B83}</UniqueIdentifier>
+      <UniqueIdentifier>{A5C228B2-DA6C-4797-8FBB-7D7BF29FBBCF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BBM.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{E22B15B2-2570-4B9B-B11A-4CED96B1BB90}</UniqueIdentifier>
+      <UniqueIdentifier>{0BA67D31-C4BB-47E7-90D0-2E95C5300D3F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\BBM">
-      <UniqueIdentifier>{29132837-BB9C-49A3-9EC3-1EE47BF2CBCC}</UniqueIdentifier>
+      <UniqueIdentifier>{1E781A92-D74C-4AE7-979C-AA7F5B27AFC4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\BBM\BBM.Build.cs">
       <Filter>Source\BBM</Filter>
@@ -48,6 +48,24 @@
       <Filter>Source\BBM</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\BBM\Bomb.h">
+      <Filter>Source\BBM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BBM\CubeActor.cpp">
+      <Filter>Source\BBM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BBM\CubeActor.h">
+      <Filter>Source\BBM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BBM\MapGenerator.cpp">
+      <Filter>Source\BBM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BBM\MapGenerator.h">
+      <Filter>Source\BBM</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BBM\PlaneActor.cpp">
+      <Filter>Source\BBM</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BBM\PlaneActor.h">
       <Filter>Source\BBM</Filter>
     </ClInclude>
   </ItemGroup>
